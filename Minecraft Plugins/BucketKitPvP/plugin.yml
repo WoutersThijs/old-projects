@@ -1,0 +1,8 @@
+name: BucketKitPvP
+main: be.thijswouters.KitPvP
+version: 0.1
+commands:
+    setspawn:
+        description: Set the spawn.
+    spawn:
+        description: Teleport to spawn.

@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/be/thijswouters/DemonsCore.java=UTF-8
+encoding//src/be/thijswouters/Listeners/EventCommand.java=UTF-8
+encoding//src/be/thijswouters/Listeners/EventLogin.java=UTF-8
+encoding//src/be/thijswouters/Listeners/EventPlayerChat.java=UTF-8
+encoding//src/be/thijswouters/Listeners/EventPlayerJoin.java=UTF-8
+encoding//src/be/thijswouters/Listeners/EventPlayerQuit.java=UTF-8
+encoding//src/be/thijswouters/Utils/Chat.java=UTF-8

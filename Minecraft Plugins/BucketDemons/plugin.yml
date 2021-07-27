@@ -1,0 +1,24 @@
+name: Demons
+main: be.thijswouters.DemonsCore
+version: 0.1
+commands:
+    swapteam:
+        description: Swap your team with another player.
+    swap:
+        description: Swap your team with another player.
+    setlobby:
+        description: Set the lobby location.
+    setrespawn:
+        description: Set the respawn location.
+    skiptimer:
+        description: Skip the timer.
+    setnexus:
+        description: Sets the nexus spawn location.
+    ping:
+        description: Ping.
+    start:
+        description: Start the game.
+    setspectator:
+        description: Set spectator location.
+    setspec:
+        description: Set spectator location.

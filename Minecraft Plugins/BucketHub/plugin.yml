@@ -1,0 +1,10 @@
+name: Hub
+version: 1
+main: be.thijswouters.Hub
+commands:
+    spawn:
+        description: Teleport to spawn.
+    teleport:
+        description: Teleportation.
+    tp:
+        description: Teleportation.
